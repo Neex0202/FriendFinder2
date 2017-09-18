@@ -1,0 +1,33 @@
+{
+  "name": "friendfinderapp",
+  "version": "1.1.0",
+  "description": "compatibility survey application",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neex0202/FriendFinder2.git"
+  },
+  "keywords": [
+    "express",
+    "body-parser",
+    "node",
+    "full-stack",
+    "survey",
+    "friendfinder"
+  ],
+  "author": "nico santa ana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neex0202/FriendFinder2/issues"
+  },
+  "homepage": "https://github.com/Neex0202/FriendFinder2#readme"
+}
